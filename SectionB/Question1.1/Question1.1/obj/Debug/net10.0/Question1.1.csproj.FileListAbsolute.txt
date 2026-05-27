@@ -1,0 +1,14 @@
+C:\Users\Unknown\Downloads\SDT621\SectionB\Question1.1\Question1.1\bin\Debug\net10.0\Question1.1.exe
+C:\Users\Unknown\Downloads\SDT621\SectionB\Question1.1\Question1.1\bin\Debug\net10.0\Question1.1.deps.json
+C:\Users\Unknown\Downloads\SDT621\SectionB\Question1.1\Question1.1\bin\Debug\net10.0\Question1.1.runtimeconfig.json
+C:\Users\Unknown\Downloads\SDT621\SectionB\Question1.1\Question1.1\bin\Debug\net10.0\Question1.1.dll
+C:\Users\Unknown\Downloads\SDT621\SectionB\Question1.1\Question1.1\bin\Debug\net10.0\Question1.1.pdb
+C:\Users\Unknown\Downloads\SDT621\SectionB\Question1.1\Question1.1\obj\Debug\net10.0\Question1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unknown\Downloads\SDT621\SectionB\Question1.1\Question1.1\obj\Debug\net10.0\Question1.1.AssemblyInfoInputs.cache
+C:\Users\Unknown\Downloads\SDT621\SectionB\Question1.1\Question1.1\obj\Debug\net10.0\Question1.1.AssemblyInfo.cs
+C:\Users\Unknown\Downloads\SDT621\SectionB\Question1.1\Question1.1\obj\Debug\net10.0\Question1.1.csproj.CoreCompileInputs.cache
+C:\Users\Unknown\Downloads\SDT621\SectionB\Question1.1\Question1.1\obj\Debug\net10.0\Question1.1.dll
+C:\Users\Unknown\Downloads\SDT621\SectionB\Question1.1\Question1.1\obj\Debug\net10.0\refint\Question1.1.dll
+C:\Users\Unknown\Downloads\SDT621\SectionB\Question1.1\Question1.1\obj\Debug\net10.0\Question1.1.pdb
+C:\Users\Unknown\Downloads\SDT621\SectionB\Question1.1\Question1.1\obj\Debug\net10.0\Question1.1.genruntimeconfig.cache
+C:\Users\Unknown\Downloads\SDT621\SectionB\Question1.1\Question1.1\obj\Debug\net10.0\ref\Question1.1.dll

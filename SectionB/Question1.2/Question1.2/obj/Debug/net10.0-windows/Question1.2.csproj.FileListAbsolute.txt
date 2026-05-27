@@ -1,0 +1,16 @@
+C:\Users\Unknown\Downloads\SDT621\SectionB\Question1.2\Question1.2\bin\Debug\net10.0-windows\Question1.2.exe
+C:\Users\Unknown\Downloads\SDT621\SectionB\Question1.2\Question1.2\bin\Debug\net10.0-windows\Question1.2.deps.json
+C:\Users\Unknown\Downloads\SDT621\SectionB\Question1.2\Question1.2\bin\Debug\net10.0-windows\Question1.2.runtimeconfig.json
+C:\Users\Unknown\Downloads\SDT621\SectionB\Question1.2\Question1.2\bin\Debug\net10.0-windows\Question1.2.dll
+C:\Users\Unknown\Downloads\SDT621\SectionB\Question1.2\Question1.2\bin\Debug\net10.0-windows\Question1.2.pdb
+C:\Users\Unknown\Downloads\SDT621\SectionB\Question1.2\Question1.2\obj\Debug\net10.0-windows\Question1._2.Form1.resources
+C:\Users\Unknown\Downloads\SDT621\SectionB\Question1.2\Question1.2\obj\Debug\net10.0-windows\Question1.2.csproj.GenerateResource.cache
+C:\Users\Unknown\Downloads\SDT621\SectionB\Question1.2\Question1.2\obj\Debug\net10.0-windows\Question1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unknown\Downloads\SDT621\SectionB\Question1.2\Question1.2\obj\Debug\net10.0-windows\Question1.2.AssemblyInfoInputs.cache
+C:\Users\Unknown\Downloads\SDT621\SectionB\Question1.2\Question1.2\obj\Debug\net10.0-windows\Question1.2.AssemblyInfo.cs
+C:\Users\Unknown\Downloads\SDT621\SectionB\Question1.2\Question1.2\obj\Debug\net10.0-windows\Question1.2.csproj.CoreCompileInputs.cache
+C:\Users\Unknown\Downloads\SDT621\SectionB\Question1.2\Question1.2\obj\Debug\net10.0-windows\Question1.2.dll
+C:\Users\Unknown\Downloads\SDT621\SectionB\Question1.2\Question1.2\obj\Debug\net10.0-windows\refint\Question1.2.dll
+C:\Users\Unknown\Downloads\SDT621\SectionB\Question1.2\Question1.2\obj\Debug\net10.0-windows\Question1.2.pdb
+C:\Users\Unknown\Downloads\SDT621\SectionB\Question1.2\Question1.2\obj\Debug\net10.0-windows\Question1.2.genruntimeconfig.cache
+C:\Users\Unknown\Downloads\SDT621\SectionB\Question1.2\Question1.2\obj\Debug\net10.0-windows\ref\Question1.2.dll
